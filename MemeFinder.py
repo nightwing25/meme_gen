@@ -24,6 +24,7 @@ def Main_page():
 
 def meme_funct(meme):
     url = f"https://api.apileague.com/search-memes?keywords={meme}&number=1"
+    api_key = "<place api key here>"
     #api_key = os.getenv("SECRET_API_KEY")
     #if api_key is None:
     #    print("no api key was found")
