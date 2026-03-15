@@ -16,4 +16,4 @@ if you want to play around with the code process below
 5.python memeFinder.py
 
 ![first](imagez/second_crop.png)
-![last](imagez/second_crop.png)
+![last](imagez/crop_3.png)
