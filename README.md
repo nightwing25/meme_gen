@@ -15,3 +15,5 @@ if you want to play around with the code process below
 4.place api key MemeFinder.py api_key section for now save and quit<br/> 
 5.python memeFinder.py
 
+![first](imagez/second_crop.png)
+![last](imagez/second_crop.png)
