@@ -1,0 +1,15 @@
+#------------------------
+THIS IS FOR THE FORMS 
+<form action="/submit-page" method="post">
+  <div>
+    <label for="username">Username:</label><br>
+    <input type="text" id="username" name="username" placeholder="Enter your username">
+  </div>
+  <div>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required>
+  </div>
+  <input type="submit" value="Submit">
+</form>
+
+#------------------------
