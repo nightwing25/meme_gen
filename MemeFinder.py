@@ -7,16 +7,6 @@ import subprocess
 import re
 from datetime import datetime
 import os
-#remeber how to run flask
-#flask --app memeFinder.py run 
-#or do flask --app name_of_file run --host=0.0.0.0 this makes it viewable to all public ips 
-#the render template is for html use
-
-#http://127.0.0.1:5000
-#https://www.youtube.com/watch?v=5BU2gBOe9RU this link for a vim trick 
-#i actually like 
-#make input in html page use input in this jfunction for the logic 
-#to grab a meme from google or a meme api or gif api 
 
 app = Flask(__name__)#initalize flask
 
