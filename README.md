@@ -5,7 +5,7 @@ if you want to play around with the code process below
 
 ## -GETTING STARTED:
 1.HEAD OVER TO [apileague](https://apileague.com/apis/search-memes-api/)<br/> 
-2.LOGIN AND TO GET API KEY FROM YOUR CONSOLE<br/>
+2.LOGIN AND GET API KEY FROM YOUR CONSOLE<br/>
 3.copy api key<br/>
 
 ## -INSTALLATION(debian/ubuntu):
